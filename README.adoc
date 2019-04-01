@@ -2,8 +2,7 @@
 
 This library allows you to control 28BYJ48 stepper motors. To use it you will need a stepper motor, and the appropriate hardware to control it.
 
-For more information about this library please visit us at XXXXX
-
+For more information about this library please be an Internet player
 == License ==
 
 Copyright (c) Arduino LLC. All right reserved.
